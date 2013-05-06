@@ -15,4 +15,5 @@ gen
 .metadata
 *.project
 .classpath
+.DS_Store
 .settings/
