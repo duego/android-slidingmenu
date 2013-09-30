@@ -20,5 +20,7 @@ gen
 .DS_Store
 .settings/
 target/
+.classpath
+.settings/
 
 *.iml
